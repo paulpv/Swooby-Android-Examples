@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Threading Demo</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_share">Share</string>
+    <string name="download">Download</string>
+    <string name="downloading_file">Downloading File</string>
+    <string name="downloading_formatted">Downloading %s</string>
+    <string name="download_error_downloading">Error downloading</string>
+    <string name="download_complete">Download complete</string>
+    <string name="download_launch_now">Launch now?</string>
+    <string name="download_please_retry_later">Please retry later</string>
+    <string name="button_ok">OK</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+
+</resources>
